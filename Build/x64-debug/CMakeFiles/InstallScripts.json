@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/wobey/Documents/Projects/D3DTutorial/Build/x64-debug/cmake_install.cmake",
+		"C:/Users/wobey/Documents/Projects/D3DTutorial/Build/x64-debug/D3DTutorial/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

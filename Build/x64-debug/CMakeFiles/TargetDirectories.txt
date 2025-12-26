@@ -1,0 +1,5 @@
+C:/Users/wobey/Documents/Projects/D3DTutorial/Build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/wobey/Documents/Projects/D3DTutorial/Build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/wobey/Documents/Projects/D3DTutorial/Build/x64-debug/D3DTutorial/CMakeFiles/D3DTutorial.dir
+C:/Users/wobey/Documents/Projects/D3DTutorial/Build/x64-debug/D3DTutorial/CMakeFiles/edit_cache.dir
+C:/Users/wobey/Documents/Projects/D3DTutorial/Build/x64-debug/D3DTutorial/CMakeFiles/rebuild_cache.dir
