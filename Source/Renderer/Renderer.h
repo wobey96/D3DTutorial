@@ -20,8 +20,8 @@ public:
 	void CreateSwapchain(); 
 	void CreateRenderTargetView(); 
 
-	void ClearColor(XMFLOAT3 color); 
-
+	void ClearColor(XMFLOAT4 color);
+	void Present();
 private: 
 	Window* mWindow; 
 	ComPtr<ID3D11Device> mDevice; 
