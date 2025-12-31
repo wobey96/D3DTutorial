@@ -19,6 +19,7 @@ public:
 	void CreateDevice(); 
 	void CreateSwapchain(); 
 	void CreateRenderTargetView(); 
+	void CreateShaders(); 
 
 	void ClearColor(XMFLOAT4 color);
 	void Present();
@@ -28,5 +29,9 @@ private:
 	ComPtr<ID3D11DeviceContext> mDeviceContext; 
 	ComPtr<IDXGISwapChain> mSwapchain; 
 	ComPtr<ID3D11RenderTargetView> mRenderTargetView; 
+
+	ComPtr<ID3D11VertexShader> mVertexShader; 
+	ComPtr<ID3DBlob> mVertexShaderBlob; 
+	ComPtr<ID3D11PixelShader> mPixelShader; 
 
 };
